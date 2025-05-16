@@ -17,6 +17,7 @@ let state; //undefined
 
 //object
 
+//console.log(name)
 // console.log(typeof age)
 //console.log(typeof null); null is an object
 // console.log (typeof undefined); type is undefined
